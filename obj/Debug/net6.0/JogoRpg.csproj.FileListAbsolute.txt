@@ -1,0 +1,5 @@
+C:\Users\Vaio\JogoRpg\obj\Debug\net6.0\JogoRpg.csproj.AssemblyReference.cache
+C:\Users\Vaio\JogoRpg\obj\Debug\net6.0\JogoRpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\JogoRpg\obj\Debug\net6.0\JogoRpg.AssemblyInfoInputs.cache
+C:\Users\Vaio\JogoRpg\obj\Debug\net6.0\JogoRpg.AssemblyInfo.cs
+C:\Users\Vaio\JogoRpg\obj\Debug\net6.0\JogoRpg.csproj.CoreCompileInputs.cache
